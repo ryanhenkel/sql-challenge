@@ -1,1 +1,1 @@
-# sql-challenge
+# In this project, I created a SQL database for a company of over 300,000 employees. Using raw data and QuickDBD I created an entity relationship diagram to analyze the data, showing the relationships between the data in junction tables with the type of data as well as primary and foreign keys. I then exported this code to pgAdmin and loaded my data into SQL. From there, I ran various queries on the database to pull useful information.
